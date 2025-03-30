@@ -1,11 +1,8 @@
 # Activity 5.1
 
-Imagine the following situation. To make a simple data analysis project as reproducible as possible, we propose to create an environment using Docker which contains the necessary tools and scripts. 
+- You could use jupyter/scipy-notebook:python-3.11.5
 
-We have two use cases: a) we would like to run the Python scripts in a headless form and b) we think that a Jupyterlab is useful environment to play around with the data analysis.
+- Run the script from outside the container.  codereppy_min_batch.py
 
-Let's focus on case a) first. As input, We have a scrambled Dockerfile called Dockerfile.play_jupyter in the `exercises` folder as starting point for this activity.
+Reach out to your neighbour(s) in case you need help.
 
-Have a look at this Dockerfile and bring the statements in the correct order so that building the Docker image works fine.
-
-Question: How could you test that the succesfull build of the image has created a functional image? 
