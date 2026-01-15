@@ -30,4 +30,4 @@ abstract: "The container workshop will give an introduction to Docker & Apptaine
 identifiers:
 - type: url
   value: https://github.com/vib-tcp/containers-workshop/
-  version: v2025.08
+  version: v2025.10
